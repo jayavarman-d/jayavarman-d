@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayavarman D</h1>
 <h3 align="center">Software Engineer | Java | Python | Big Data </h3>
 
-- 🌱 I’m currently learning ** Python | ML | Big Data **
+- 🌱 I’m currently learning **Python | ML | Big Data**
 
-- 👯 I’m looking to collaborate on ** On Python **
+- 👯 I’m looking to collaborate on **On Python**
 
-- 💬 Ask me about ** Java **
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **jayavarman866@gmail.com**
   
