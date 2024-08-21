@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **On Python**
 
-- 💬 Ask me about **Java**
+- 💬 I'm still Learning Everyday to built a betterself for tomorrow
 
-- 📫 How to reach me **jayavarman866@gmail.com**
+- 📫 reach me **jayavarman866@gmail.com**
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayavarmandurairasu/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@varmanjaya866)
